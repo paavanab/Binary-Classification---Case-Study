@@ -1,5 +1,6 @@
-# Binary-Classification---Case-Study
+# Binary-Classification Case-Study
 Binary Classification – Assignment Summary
+
 Step 1: Inspect the Data
 Importing the data, basic inspection of data, checking for various data types, statistical summary, invalid values etc was done and it was discovered that all columns of the data had numeric values. A closer look on the statistical summary inferred there were a few outliers and none of the columns except the target variable could be treated as categorical values.
 
