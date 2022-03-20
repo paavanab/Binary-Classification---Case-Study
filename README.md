@@ -18,6 +18,8 @@ Used recursive feature elimination method to select appropriate features, Variab
 Appropriate threshold was selected based on comparison of various metrics for multiple arbitrary cutoffs. 
 The model gave very good results both on train and validation sets as shown below:
 
+![image](https://user-images.githubusercontent.com/70761144/159154726-1e1ff08a-fc50-4a91-8cc6-d7bcfbb584e0.png)
+
  
 Since the model gave good accuracy and was able to generalize well for both train and validation data sets. No other models were built to compare.
 
